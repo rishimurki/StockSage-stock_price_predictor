@@ -1,1 +1,1 @@
-# stock_price_predictor
+# StockSage - Stock Price Predictor
